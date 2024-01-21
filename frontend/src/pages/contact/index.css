@@ -1,0 +1,43 @@
+.contact-container{
+    width: 60%;
+    margin: auto;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-title1{
+    font-size: 60px;
+    font-weight: 500;
+    text-align: left;
+    letter-spacing: 8.5px;
+}
+
+.contact-line{
+    background-color: #000;
+    height: 5px;
+    width: 100px;
+    margin: 5px 0;
+}
+
+.contact-title2{
+    font-size: 32px;
+    font-weight: 300;
+    text-align: left;
+    letter-spacing: 5px;
+    margin-top: 50px;
+}
+
+.contact-detail{
+    font-size: 16px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    font-weight: 300;
+
+    margin: 10px 0;
+}
+
+.contact-decoration{
+    text-decoration: underline;
+}
